@@ -13,10 +13,10 @@ body {
 #reading-container {
     background-color: white;
 }
-/*.logo-container {
+.logo-container {
     margin: 0 -15px;
     width: 50px;
-}*/
+}
 #menu-container .logo {
     width: auto;
 }
